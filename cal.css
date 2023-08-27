@@ -1,0 +1,47 @@
+body {
+    height: 100%
+  }
+
+.container-box{
+    width: 500px;
+    height: 450px;
+    background-color: black;
+    border-radius: 5px;
+    
+}
+
+.result{
+     height: 60px;
+     display: flex;
+     font-size: 25px;
+     text-align: right;
+    
+}
+
+.input{
+   color:black;
+   font-size: 27px;
+   padding: 5px;
+}
+
+.clear{
+    background-color: crimson;
+}
+
+.num{
+    height: 50px;
+    border-radius: 4px;
+}
+
+.numbers{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 3px;
+    border-radius: 10px;
+    border-color: aliceblue; 
+    background-color: darkgrey;
+      
+    
+}
+
